@@ -59,17 +59,17 @@ These five projects have detailed, product-focused READMEs in their dedicated re
 Below is a more comprehensive list of my hands-on projects, demonstrating a broad range of AI/ML skills and applications.
 
 ### 🧠 Generative AI: RAG
-#### **[Project Name 1]**
-*   **Problem:** [Brief problem statement, e.g., "Users couldn't find specific information buried in dense technical documentation."]
-*   **Solution:** [Brief solution statement, e.g., "Built a RAG pipeline that allowed users to ask questions in natural language and get precise answers with source links."]
-*   **Tech Stack:** [e.g., Python, LangChain, FAISS, OpenAI API]
-*   **[Repository &raquo;](link)**
+#### **GroundedQA**
+*   **Problem:** Enterprise users spend hours weekly searching for specific answers. They cannot trust standard LLMs for critical business tasks because they hallucinate, have small context windows, and lack access to private, real-time company data.
+*   **Solution:** Built a RAG pipeline that allows enterprise users to ask questions in natural language and gets precise answers with source links 90% of the time.
+*   **Tech Stack:** Langchain, OpenAI ChatGPT, ChromaDB, PyPDF, TikToken
+*   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/GroundedQA_RAG_Enterprise_Knowledge_Engine)**
 ---
-#### **[Project Name 2]**
-*   **Problem:** [Brief problem statement.]
-*   **Solution:** [Brief solution statement.]
-*   **Tech Stack:** [e.g., Python, LlamaIndex, Pinecone, Streamlit]
-*   **[Repository &raquo;](link)**
+#### **BigData_RAG**
+*   **Problem:** Knowledge workers waste valuable time and make incomplete decisions because they cannot get synthesized, accurate answers from a large and growing library of siloed documents.
+*   **Solution:** This RAG pipeline takes in multiple PDF files from a folder and can answer questions based on multiple files with 90% accuracy
+*   **Tech Stack:**Python, LangChain, OpenAI API, ChromaDB, PyPDF, Tiktoken
+*   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/BigData_RAG)**
 
 ### 🤖 Generative AI: Chatbots
 #### **[Project Name 1]**
@@ -164,3 +164,4 @@ I am passionate about building products that are not only technologically innova
 
 *   **LinkedIn:** www.linkedin.com/in/anartaori
 *   **website:**  www.growthgrail.ai
+
