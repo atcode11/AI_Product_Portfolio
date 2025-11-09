@@ -83,27 +83,6 @@ Below is a more comprehensive list of my hands-on public projects, demonstrating
 *   **Tech Stack:** Python, DataStax RAGStack, Astra DB (Vector Store & Memory), LangChain, OpenAI, Streamlit.
 *   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/Configurable_Enterprise_Chatbot_LLM_RAG_App)**
 
-<!--
-### 🌐 Generative AI: Web Apps
-#### **[Project Name 1]**
-*   **Problem:** [e.g., "Repetitive customer service queries were overwhelming support agents."]
-*   **Solution:** [e.g., "A conversational chatbot using an LLM to answer the top 50 FAQs, deflecting 20% of inbound tickets."]
-*   **Tech Stack:** [e.g., Python, Dialogflow, OpenAI Function Calling]
-*   **[Repository &raquo;](link)**
----
-#### **[Project Name 2]**
-*   **Problem:** [Brief problem statement.]
-*   **Solution:** [Brief solution statement.]
-*   **Tech Stack:** [e.g., Python, LlamaIndex, Pinecone, Streamlit]
-*   **[Repository &raquo;](link)**
-
-### 📱 Generative AI: Mobile Apps
-#### **[Project Name 1]**
-*   **Problem:** [e.g., "Repetitive customer service queries were overwhelming support agents."]
-*   **Solution:** [e.g., "A conversational chatbot using an LLM to answer the top 50 FAQs, deflecting 20% of inbound tickets."]
-*   **Tech Stack:** [e.g., Python, Dialogflow, OpenAI Function Calling]
-*   **[Repository &raquo;](link)**
--->
 ### 📝 Natural Language Processing (NLP)
 #### **Fake News Classifier]**
 *   **Problem:**The rapid spread of misinformation online erodes trust and makes it difficult for readers to distinguish factual news from false narratives.
@@ -142,7 +121,13 @@ Below is a more comprehensive list of my hands-on public projects, demonstrating
 *   **Solution & Result:**Use Data Science and Machine Learning to visualize and forecast the economic impact of COVID-19, and uncover patterns that explain industry-level resilience.
 *   **Tech Stack:**Tableau, Linear and Polynomial Regression, R, Python (Numpy, Pandas)
 *   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/Data-Visualization-and-Machine-Learning-Model-for-Covid19-Impact-on-Industry)**
-
+  
+### 🌐 Generative AI & Web Applications
+#### **ParkRanker: A Crowdsourced ELO Ranking Engine**
+*   **Problem:** Static "Top 10" lists for national parks are subjective and outdated, offering no interactive way for enthusiasts to discover and contribute to a true community-driven ranking.
+*   **Solution:** A gamified web app using an ELO rating system for head-to-head park matchups, enhanced with **ChatGPT-4** for AI-generated park summaries, to create a dynamic, crowdsourced leaderboard.
+*   **Tech Stack:** Bolt.new, Supabase, Apify, ChatGPT-4, Netlify
+*   **[➡️ View Full Case Study & Repository]([your-repository-link-here])**
 ---
 
 ## 📫 About Me & Contact
