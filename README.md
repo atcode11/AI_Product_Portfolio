@@ -127,7 +127,7 @@ Below is a more comprehensive list of my hands-on public projects, demonstrating
 *   **Problem:** Static "Top 10" lists for national parks are subjective and outdated, offering no interactive way for enthusiasts to discover and contribute to a true community-driven ranking.
 *   **Solution:** A gamified web app using an ELO rating system for head-to-head park matchups, enhanced with **ChatGPT-4** for AI-generated park summaries, to create a dynamic, crowdsourced leaderboard.
 *   **Tech Stack:** Bolt.new, Supabase, Apify, ChatGPT-4, Netlify
-*   **[➡️ View Full Case Study & Repository]([your-repository-link-here])**
+*   **[➡️ View Full Case Study & Repository]([https://github.com/atcode11/parkvote])**
 ---
 
 ## 📫 About Me & Contact
