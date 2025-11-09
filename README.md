@@ -41,7 +41,7 @@ I have showcased five different projects from my portfolio followed by a set of 
 *   **Problem:** Fleet managers lack an automated way to track and differentiate specific vehicles in real-time video feeds, causing costly operational inefficiencies and dispatch delays.
 *   **Solution & Result:** This project delivers a proof-of-concept for an intelligent vehicle recognition system. It is built by fine-tuning a YOLOv3 model on a custom dataset to recognize critical fleet and emergency vehicles with high speed and accuracy.
 *   **Tech Stack:** Python, PyTorch, YOLOv3, OpenCV, Computer Vision
-*   ***[➡️ View Full Case Study & Repository](https://github.com/atcode11/TrafficVision_AI_Real-Time_Fleet_and_Emergency_Vehicle_Detection)**
+*   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/TrafficVision_AI_Real-Time_Fleet_and_Emergency_Vehicle_Detection)**
 
 ---
 
@@ -107,7 +107,7 @@ Below is a more comprehensive list of my hands-on public projects, demonstrating
 *   **Problem:** Fleet managers lack an automated way to track and differentiate specific vehicles in real-time video feeds, causing costly operational inefficiencies and dispatch delays.
 *   **Solution & Result:** This project delivers a proof-of-concept for an intelligent vehicle recognition system. It is built by fine-tuning a YOLOv3 model on a custom dataset to recognize critical fleet and emergency vehicles with high speed and accuracy.
 *   **Tech Stack:** Python, PyTorch, YOLOv3, OpenCV, Computer Vision
-*   ***[➡️ View Full Case Study & Repository](https://github.com/atcode11/TrafficVision_AI_Real-Time_Fleet_and_Emergency_Vehicle_Detection)**
+*   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/TrafficVision_AI_Real-Time_Fleet_and_Emergency_Vehicle_Detection)**
 ---
 #### **AI-Powered Fashion Product Classifier**
 *   **Problem:** Merchandising teams spend countless hours manually categorizing thousands of new clothing items. This process is slow, prone to human error, and leads to inconsistent product tagging, resulting in poor customer search experiences and lost sales when items are misclassified.
@@ -127,7 +127,7 @@ Below is a more comprehensive list of my hands-on public projects, demonstrating
 *   **Problem:** Static "Top 10" lists for national parks are subjective and outdated, offering no interactive way for enthusiasts to discover and contribute to a true community-driven ranking.
 *   **Solution:** A gamified web app using an ELO rating system for head-to-head park matchups, enhanced with **ChatGPT-4** for AI-generated park summaries, to create a dynamic, crowdsourced leaderboard.
 *   **Tech Stack:** Bolt.new, Supabase, Apify, ChatGPT-4, Netlify
-*   **[➡️ View Full Case Study & Repository]([https://github.com/atcode11/parkvote/tree/main])**
+*   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/parkvote/tree/main)**
 ---
 
 ## 📫 About Me & Contact
