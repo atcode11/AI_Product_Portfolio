@@ -23,7 +23,7 @@ I have showcased five different projects from my portfolio followed by a set of 
 
 ### 2. **Sentiment Analysis Engine Bake-Off**
 *   **Problem:** Product and engineering teams frequently need to understand user sentiment from text data like product reviews, support tickets, or social media comments. While many sentiment analysis tools exist, they vary significantly in their approach, accuracy, and complexity
-*   **Solution:** A comparative analysis of four popular NLP libraries (NLTK, TextBlob, Flair, DeepMoji) on a sentence with mixed sentiment, resulting in a data-driven recommendation: use TextBlob for a quick MVP and Flair for high-accuracy production systems.
+*   **Solution & Result:** A comparative analysis of four popular NLP libraries (NLTK, TextBlob, Flair, DeepMoji) on a sentence with mixed sentiment, resulting in a data-driven recommendation: use TextBlob for a quick MVP and Flair for high-accuracy production systems.
 *   **Tech Stack:** Python, NLTK (Vader), TextBlob, Flair (PyTorch), DeepMoji.
 *   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/Sentiment_Analysis_Engines_Evaluation)**
 
@@ -32,7 +32,7 @@ I have showcased five different projects from my portfolio followed by a set of 
 ### 3. **BigData_RAG**
 *   **Problem:** Knowledge workers waste valuable time and make incomplete decisions because they cannot get accurate answers. They cannot trust standard LLMs for critical business tasks because they hallucinate, have limited context windows, and lack access to private, real-time company data.
 *   **Solution & Result:** This RAG pipeline takes in multiple PDF files from a folder and can answer questions based on multiple files with 90% accuracy.
-*   **Tech Stack:**Python, LangChain, OpenAI API, ChromaDB, PyPDF, Tiktoken
+*   **Tech Stack:** Python, LangChain, OpenAI API, ChromaDB, PyPDF, Tiktoken
 *   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/BigData_RAG)**
 
 ---
@@ -47,8 +47,8 @@ I have showcased five different projects from my portfolio followed by a set of 
 
 ### 5. **Data Visualization and Machine Learning Model: Covid19 Impact on US Industry**
 *   **Problem:** The pandemic caused record job losses and widespread economic disruption across the United States. Policy makers, investors, and businesses needed evidence-based insight into which sectors would recover fastest — and why.
-*   **Solution & Result:**Used Data Science and Machine Learning to visualize and forecast the economic impact of COVID-19, and uncover patterns that explain industry-level resilience.
-*   **Tech Stack:**Tableau, Linear and Polynomial Regression, R, Python (Numpy, Pandas)
+*   **Solution & Result:** Used Data Science and Machine Learning to visualize and forecast the economic impact of COVID-19, and uncover patterns that explain industry-level resilience.
+*   **Tech Stack:** Tableau, Linear and Polynomial Regression, R, Python (Numpy, Pandas)
 *   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/Data-Visualization-and-Machine-Learning-Model-for-Covid19-Impact-on-Industry)**
 
 ---
@@ -73,26 +73,26 @@ Below is a more comprehensive list of my hands-on public projects, demonstrating
 #### **BigData_RAG**
 *   **Problem:** Knowledge workers waste valuable time and make incomplete decisions because they cannot get accurate answers. They cannot trust standard LLMs for critical business tasks because they hallucinate, have limited context windows, and lack access to private, real-time company data.
 *   **Solution & Result:** This RAG pipeline takes in multiple PDF files from a folder and can answer questions based on multiple files with 90% accuracy.
-*   **Tech Stack:**Python, LangChain, OpenAI API, ChromaDB, PyPDF, Tiktoken
+*   **Tech Stack:** Python, LangChain, OpenAI API, ChromaDB, PyPDF, Tiktoken
 *   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/BigData_RAG)**
 
 ### 🤖 Generative AI: Chatbots
 #### **Configurable Enterprise Chatbot**
 *   **Problem:** Sales engineers spend too much time building custom RAG (Retrieval Augmented Generation) demos for enterprise clients, which slows down the sales cycle.
-*   **Solution:** This Chatbot is built specifically as a reusable and configurable sample web app for enterprises to share with prospective customers. It enables enterprise sales teams to rapidly deploy personalized demos and accelerate the sales cycle.
+*   **Solution & Result:** This Chatbot is built specifically as a reusable and configurable sample web app for enterprises to share with prospective customers. It enables enterprise sales teams to rapidly deploy personalized demos and accelerate the sales cycle.
 *   **Tech Stack:** Python, DataStax RAGStack, Astra DB (Vector Store & Memory), LangChain, OpenAI, Streamlit.
 *   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/Configurable_Enterprise_Chatbot_LLM_RAG_App)**
 
 ### 📝 Natural Language Processing (NLP)
 #### **Fake News Classifier]**
-*   **Problem:**The rapid spread of misinformation online erodes trust and makes it difficult for readers to distinguish factual news from false narratives.
-*   **Solution & Result:**A deep learning model that automatically classifies news articles as "Real" or "Fake" with 97.5% accuracy, designed to help online platforms combat the spread of misinformation at scale.
+*   **Problem:** The rapid spread of misinformation online erodes trust and makes it difficult for readers to distinguish factual news from false narratives.
+*   **Solution & Result:** A deep learning model that automatically classifies news articles as "Real" or "Fake" with 97.5% accuracy, designed to help online platforms combat the spread of misinformation at scale.
 *   **Tech Stack:** Python | Scikit-learn | Pandas | BERT | MatplotLib
 *   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/Fake_News_Classifier)**
 ---
 #### **Sentiment Analysis Engine Bake-Off**
 *   **Problem:** Product and engineering teams frequently need to understand user sentiment from text data like product reviews, support tickets, or social media comments. While many sentiment analysis tools exist, they vary significantly in their approach, accuracy, and complexity
-*   **Solution:** A comparative analysis of four popular NLP libraries (NLTK, TextBlob, Flair, DeepMoji) on a sentence with mixed sentiment, resulting in a data-driven recommendation: use TextBlob for a quick MVP and Flair for high-accuracy production systems.
+*   **Solution & Result:** A comparative analysis of four popular NLP libraries (NLTK, TextBlob, Flair, DeepMoji) on a sentence with mixed sentiment, resulting in a data-driven recommendation: use TextBlob for a quick MVP and Flair for high-accuracy production systems.
 *   **Tech Stack:** Python, NLTK (Vader), TextBlob, Flair (PyTorch), DeepMoji.
 *   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/Sentiment_Analysis_Engines_Evaluation)**
 ---
@@ -118,8 +118,8 @@ Below is a more comprehensive list of my hands-on public projects, demonstrating
 ### 📊 BI / Analytics
 #### **Data Visualization and Machine Learning Model: Covid19 Impact on US Industry**
 *   **Problem:** The pandemic caused record job losses and widespread economic disruption across the United States. Policy makers, investors, and businesses needed evidence-based insight into which sectors would recover fastest — and why.
-*   **Solution & Result:**Use Data Science and Machine Learning to visualize and forecast the economic impact of COVID-19, and uncover patterns that explain industry-level resilience.
-*   **Tech Stack:**Tableau, Linear and Polynomial Regression, R, Python (Numpy, Pandas)
+*   **Solution & Result:** Use Data Science and Machine Learning to visualize and forecast the economic impact of COVID-19, and uncover patterns that explain industry-level resilience.
+*   **Tech Stack:** Tableau, Linear and Polynomial Regression, R, Python (Numpy, Pandas)
 *   **[➡️ View Full Case Study & Repository](https://github.com/atcode11/Data-Visualization-and-Machine-Learning-Model-for-Covid19-Impact-on-Industry)**
   
 ### 🌐 Generative AI & Web Applications
